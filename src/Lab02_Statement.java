@@ -1,7 +1,7 @@
 public class Lab02_Statement {
     public static void main(String[] args) {
-        int number=10;
-        System.out.println(number);
+        int num = 10;
+        System.out.println(num);
 
 
         /* In java a Statement is a complete unit of execution .
