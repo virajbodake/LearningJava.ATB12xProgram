@@ -5,6 +5,7 @@ public class lab04_Comment {
 
         byte age = 25; // age is asssigned 25 value( single line comment)
         System.out.println(age);
+        /* multi line statement for use these */
     }
 
 }
